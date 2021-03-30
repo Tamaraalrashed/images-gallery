@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    width:960px;
+    margin: auto;
+    font-family: 'Nanum Pen Script', cursive;
+}
