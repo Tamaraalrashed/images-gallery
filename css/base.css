@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 body{
+   /* display: flex; */
     width:960px;
     margin: auto;
     font-family: 'Nanum Pen Script', cursive;

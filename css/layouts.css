@@ -24,6 +24,8 @@ footer{
 }
 
 header{
+    /* display: flex;
+  justify-content: center; */
     margin:50px;
     align-items: center;
     text-align: center;
